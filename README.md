@@ -26,3 +26,19 @@ endX   endY
 ```
 
 and matrix where `1` is a wall and `0` is a free tile.
+
+### Output
+
+```$xslt
+##########
+#Sxx     #
+# #x######
+# #xx    #
+# ##x# ###
+# # x# # #
+# # xx   #
+# ###x####
+# #  xxxE#
+##########
+
+```
