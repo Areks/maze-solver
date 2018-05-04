@@ -1,1 +1,1 @@
-#Example of maze solver on java using Lee method
+# Example of maze solver on java using Lee method
